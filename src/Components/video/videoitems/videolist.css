@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.c{
+    display:flex;
+    height:85%;
+    border:1px solid gray;
+    width:100%;
+    text-align: justify;
+}
+.c img{
+    width:50%;
+}
+.c p{
+    font-size:80%;
+}
+@media screen and (max-width: 760px) {
+    .c p{
+        font-size:50%;
+    }
+}
+

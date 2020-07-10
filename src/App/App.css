@@ -1,0 +1,18 @@
+.first{
+display:flex ;
+
+}
+.a{
+  width:75%;
+}
+.b{
+  width:25%;
+  margin-right:2%;
+}
+.App{
+ background-color: #FFFAF0;
+
+}
+
+
+

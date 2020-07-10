@@ -1,0 +1,32 @@
+.topnav img{
+  height:25px;
+  
+}
+.topnav{
+  margin-bottom: 1%;
+}
+div.image1{
+  display:inline-block;
+}
+div.search-container{
+  width:40%;
+  height: 26px;
+  display:inline-block;
+  margin-left:15%;
+}
+div.image{
+  display:inline-block;
+  margin-left:auto;
+  float:right;
+}
+.topnav input[type=text] {
+  padding:1%;
+  width:100%;
+}
+
+@media screen and (max-width:460px){
+  div.search-container
+  {
+    width:30%;
+  }
+}
