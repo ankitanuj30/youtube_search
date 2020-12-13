@@ -17,7 +17,7 @@ class App extends Component {
       params: {
         part: 'snippet',
         maxResults: 15,
-        key: 'AIzaSyCuUV8UxyBwSEwUFtxoVVPnbAGCTL2fMVQ',
+        key: 'AIzaSyDwIDVOgu3QbEcEcQL-cIuuzOgvfadEor8',
         q: search
       }
     });
@@ -28,7 +28,7 @@ class App extends Component {
       params:{
         part:'snippet',
         maxResults:5,
-        key: 'AIzaSyCuUV8UxyBwSEwUFtxoVVPnbAGCTL2fMVQ',
+        key: 'AIzaSyDwIDVOgu3QbEcEcQL-cIuuzOgvfadEor8',
         videoId:videoid
       }
     });
